@@ -1,1 +1,3 @@
-box: wercker/default
+box: wercker/php
+services:
+  - wercker/mysql@1.0.1
